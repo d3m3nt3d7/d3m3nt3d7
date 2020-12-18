@@ -8,7 +8,7 @@ My name is Kaloian (**d3m3nt3d7**) and I was born in Sofia, Bulgaria. Currently 
 
 ## My Interests▁
 
-I have interests in:\
+I have interests in:
 >『🏍️』 Motorbikes\
 『👨‍💻』 Web Development\
 『🔌』 Arduino and Raspberry
