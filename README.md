@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hey there!
+ℹ️
+Hey! Welcome to my GitHub profile. Here you will find some interesteing projects which I've programmed or edited. You have complete freedom over the materials here.
 
-<!--
-**d3m3nt3d7/d3m3nt3d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me▁
 
-Here are some ideas to get you started:
+My name is Kaloian (**d3m3nt3d7**) and I was born in Sofia, Bulgaria. Currently I'm working as freelancer and my gigs can be found in my [Fiverr profile](https://fiverr.com/d3m3nt3d7).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests▁
+
+I have interests in:\
+>『🏍️』 Motorbikes\
+『👨‍💻』 Web Development\
+『🔌』 Arduino and Raspberry
+## 🚧 Currently working on▁
+>»『[Fiverr Projects](https://fiverr.com/d3m3nt3d7)』\
+»『[ScooterHouse.net](https://Scooterhouse.net)』
+
+
+## 📞 Contacts▁
+>» 『[Discord](https://discord.com/users/266888299753373696)』\
+» 『[Website](https://kaloianpenchev.eu)』\
+» 『[Email](mailto:support@kaloianpenchev.eu)』\
+» 『[Phone](tel:+359878508995)』
